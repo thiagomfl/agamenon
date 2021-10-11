@@ -1,17 +1,18 @@
 import Image from 'next/image'
 
 import styles from './styles.module.scss'
+import { constants } from '../../utils/constants'
 
 export function Player() {
   return (
     <div className={styles.playerContainer}>
       <header>
         <Image src="/playing.svg" alt="Tocando agr" width={32} height={32} />
-        <strong>Tocando agora</strong>
+        <strong>{constants.TEXT.PLAYER_PLAYS}</strong>
       </header>
 
       <div className={styles.emptyPlayer}>
-        <strong>Selecione um episódio para ouvir</strong>
+        <strong>{constants.TEXT.PLAYER_SELECT}</strong>
       </div>
 
       <footer className={styles.empty}>

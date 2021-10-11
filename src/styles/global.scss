@@ -69,3 +69,12 @@ h2 {
 button {
   cursor: pointer;
 }
+
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 0, 0, 0.25);
+  border-radius: 0.25rem;
+}
