@@ -14,8 +14,32 @@ export function Player() {
         <strong>Selecione um episódio para ouvir</strong>
       </div>
 
-      <footer>
+      <footer className={styles.empty}>
+        <div className={styles.progress}>
+          <span>00:00</span>
+          <div className={styles.slider}>
+            <div className={styles.emptySlider} />
+          </div>
+          <span>00:00</span>
+        </div>
 
+        <div className={styles.buttons}>
+          <button type="button">
+            <Image src="/shuffle.svg" alt="Embaralhar" height={24} width={24} />
+          </button>
+          <button type="button">
+            <Image src="/play-previous.svg" alt="Tocar anterior" height={24} width={24} />
+          </button>
+          <button type="button" className={styles.playButton}>
+            <Image src="/play.svg" alt="Tocar" height={24} width={24} />
+          </button>
+          <button type="button">
+            <Image src="/play-next.svg" alt="Tocar próxima" height={24} width={24} />
+          </button>
+          <button type="button">
+            <Image src="/repeat.svg" alt="Repetir" height={24} width={24} />
+          </button>
+        </div>
       </footer>
     </div>
   )
