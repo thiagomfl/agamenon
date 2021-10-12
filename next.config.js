@@ -2,6 +2,6 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ['storage.googleapis.com'],
+    domains: ['agamenon.s3.amazonaws.com'],
   },
 };

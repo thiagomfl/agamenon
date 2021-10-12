@@ -3,131 +3,131 @@
     {
       "id": "agamenon-157",
       "title": "AGAMENON #157",
-      "members": "Dessa vez com o time completo, o #Agamenon da semana começa com o clássico Unicast, falando sobre pa...",
-      "published_at": "2021-01-22 16:35:40",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
-      "description": "<p>Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmitz, Bruno Lemos e Diego Haz, para discutir sobre a importância da contribuição open source e quais desafios circulam na comunidade.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.</p>",
+      "published_at": "2021-10-08",
+      "shortDescription": "Dessa vez com o time completo, o #Agamenon da semana começa com o clássico Unicast, falando sobre pa...",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-157.png",
+      "description": "<p>Dessa vez com o time completo, o #Agamenon da semana começa com o clássico Unicast, falando sobre partos de bezerros e girafas. Na sequência, a cartinha do amor, com a tradução de Fred Figueiroa. No Google Trends, os principais temas foram a queda do Whatsapp e o fenômeno da Netflix, a série Round 6. Na reta final, as indicações. Ouça agora, ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
-        "type": "audio/x-m4a",
-        "duration": 3981
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-148.mp3",
+        "type": "audio/mpeg",
+        "duration": 7323
       }
     },
     {
       "id": "agamenon-156",
       "title": "AGAMENON #156",
-      "members": "Uma carta de amor pode quebrar fronteiras, ainda mais quando ela é traduzida para o inglês com o cal...",
-      "published_at": "2021-01-15 13:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/funcional.jpg",
-      "description": "<p>Diego e Dani receberam Laura Beatris e Rafael Camarda na mesa do Faladev para conversarem sobre programação funcional e programação orientada a objetos.</p><p>Análises de mercado, conceitos na prática e desafios na adoção de qualquer método de desenvolvimento. Tudo isso numa conversa dinâmica e relevante para nosso público.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.</p>\n",
+      "shortDescription": "Uma carta de amor pode quebrar fronteiras, ainda mais quando ela é traduzida para o inglês com o cal...",
+      "published_at": "2021-09-29",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-156.jpg",
+      "description": "<p>Uma carta de amor pode quebrar fronteiras, ainda mais quando ela é traduzida para o inglês com o calor que só o fire Fred Figueiroa sabe dar à língua nativa de Shakespeare. Foi nesse clima de romance que começou o Agamenon #156. A edição veio trabalhada forte nos Google Trends, debatendo a hiperexposição de Andressa Urach, a expulsão de Nego do Borel do reality A Fazenda, a demissão do Alexandre Garcia e os últimos desdobramentos da CPI da Pandemia, que recebeu o nefasto Luciano Hang para fazer propaganda da Havan.</p><p>Além disso, ainda deu tempo para algumas recomendações, com filme, série e até plataforma de games no catálogo da semana.</p><p>Desta vez, o programa contou com Celso Ishigami, Cassio Zirpoli, Fred Figueiroa e João de Andrade Neto. Vítor Aguiar foi o responsável pela edição de áudio do programa e por alguns momentos subwoofer. Ouça agora ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/funcional.m4a",
-        "type": "audio/x-m4a",
-        "duration": 4237
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-156.mp3",
+        "type": "audio/mpeg",
+        "duration": 5902
       }
     },
     {
       "id": "agamenon-155",
       "title": "AGAMENON #155",
-      "members": "O Agamenon volta daquele jeito que vocês se acostumaram. Pura aleatoriedade. Depois de uma passada n...",
-      "published_at": "2021-01-08 13:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/microservicos.jpg",
-      "description": "<p>Os desenvolvedores Wesley Willians e Lucas Santos foram convidados para este Faladev para ter uma conversa sobre o que são micro-serviços e quais são os desafios e as barreiras de sua aplicação.</p><p>Nessa edição, Diego Fernandes e Daniele Evangelista guiam a conversa levantando tópicos e questionamentos relevantes sobre o assunto.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.  #programação #rocketseat #programador #programador</p>",
+      "shortDescription": "O Agamenon volta daquele jeito que vocês se acostumaram. Pura aleatoriedade. Depois de uma passada n...",
+      "published_at": "2021-09-22",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-155.png",
+      "description": "<p>O Agamenon volta daquele jeito que vocês se acostumaram. Pura aleatoriedade. Depois de uma passada nas mini-férias do “grandão” Fred Figueiroa em Fernando de Noronha, Cassio Zirpoli falou sobre suas propostas caso virasse governador de Pernambuco por uma semana. Em grande parte, o fomento ao esporte e à internet no arquipélago seriam algumas das pautas do maestro.</p><p>Na continuidade do programa, abordamos o discurso do presidente Jair Bolsonaro na ONU, o escândalo da Prevent Senior acerca dos experimentos com cloroquina e a possível fraude de laudos de óbito pela empresa, envolvendo até a mãe do empresário bolsonarista Luciano Hang.</p><p>Na reta final do Agamenon, junto ao on-demand, a pauta foi uma lista – controversa – de melhores desenhos animados que João de Andrade Neto achou na internet. Teve tabocada para todo lado, aumentando ainda mais as aleatoriedades que o programa sempre traz.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/microservicos.m4a",
-        "type": "audio/x-m4a",
-        "duration": 5506
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-155.mp3",
+        "type": "audio/mpeg",
+        "duration": 6156
       }
     },
     {
       "id": "agamenon-154",
       "title": "AGAMENON #154",
-      "members": "O dia sete de setembro teve caráter histórico, afinal, não é todo dia que vemos o Presidente da Repú...",
-      "published_at": "2020-12-18 14:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/clean.jpg",
-      "description": "<p>Diego Fernandes e Daniele Evangelista receberam Otávio Lemos e Rodrigo Branas para bater um papo sobre arquiteturas modernas de desenvolvimento, aplicadas na indústria da tecnologia.</p><p>Quais são os fundamentos, os princípios e a importância de debater arquiteturas neste ecossistema?</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.  Ficha técnica Hosts: Diego Fernandes e Daniele Leão Evangelista Convidados: Otávio Lemos  e Rodrigo Branas Roteiro: Felipe Buzzi, Beatriz Clasen e Thiago Marinho Edição: Thiago Santana Produção: Leonardo Minatti</p>",
+      "shortDescription": "O dia sete de setembro teve caráter histórico, afinal, não é todo dia que vemos o Presidente da Repú...",
+      "published_at": "2021-09-08",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-154.jpeg",
+      "description": "<p>O dia sete de setembro teve caráter histórico, afinal, não é todo dia que vemos o Presidente da República levantando a voz em praça pública para coros antidemocráticos. Menos ainda após um tricampeão mundial de Formula 1 fazer papel de chofer. A repercussão das manifestações e as projeções para os atos do dia 12 e, claro, para as eleições gerais de 2022 entraram no debate da nova edição do Agamenon.</p><p>O programa também passou pelas projeções de golpe e impeachment e o direito de usar o verde e amarelo. No fim, ainda deu para trazer algumas sugestões, focadas nos jogos para celular.</p><p>Desta vez, o programa contou com Celso Ishigami, Cassio Zirpoli, Fred Figueiroa e João de Andrade Neto. Vítor Aguiar foi o responsável pela edição de áudio do programa. Ouça agora ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/clean.m4a",
-        "type": "audio/x-m4a",
-        "duration": 5044
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-154.mp3",
+        "type": "audio/mpeg",
+        "duration": 6969
       }
     },
     {
       "id": "agamenon-153",
       "title": "AGAMENON #153",
-      "members": "Na versão “Grêmio”, o #Agamenon começa com um epilogo curtinho, sobre o último tema de um programa c...",
-      "published_at": "2020-12-04 15:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/josevalim.jpg",
-      "description": "<p>Nesta edição especial de final de temporada tivemos a oportunidade de ter uma conversa com José Valim, dev brasileiro que criou a linguagem de programação Elixir — utilizada internacionalmente em diversas tecnologias, incluindo Discord e Pinterest.</p><p>O assunto da semana girou em diversos processos envolvidos na criação de uma linguagem nova, que propõe ser uma alternativa eficiente no mercado da tecnologia.</p><p>Além de tudo isso, Valim pôde falar de muito código e sobre a sua jornada e experiência em criar uma comunidade ativa por trás do open source.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original da Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev.</p>",
+      "shortDescription": "Na versão “Grêmio”, o #Agamenon começa com um epilogo curtinho, sobre o último tema de um programa c...",
+      "published_at": "2021-09-02",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-153.png",
+      "description": "<p>Na versão “Grêmio”, o #Agamenon começa com um epilogo curtinho, sobre o último tema de um programa com três participantes. Na sequência, o programa segue com tema livre, que passou por colégio, Classic Hall e Allianz Parque. A pauta virou para top 10 de novelas da Globo, numa lista feita pelo presidente André Apolinário no grupo do apoia-se do Agamenon, e partir do tema, rolou a lista das melhores novelas fora da Globo. Na reta final, uma passada pelo Google Trends, que começa com a série de Val Kilmer, passa pelo Star+, e termina com a tatuagem do filho 04, do rosto do pai e Presidente da República. Antes do fim, as indicações levaram ao conhecimento de Fred sobre heróis. Ouça agora, ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/jose-valim.m4a",
-        "type": "audio/x-m4a",
-        "duration": 4396
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-153.mp3",
+        "type": "audio/mpeg",
+        "duration": 7332
       }
     },
     {
       "id": "agamenon-152",
       "title": "AGAMENON #152",
-      "members": "O Agamenon #152 chega na sua versão freestyle, com as histórias cotidianas de nossos integrantes gui...",
-      "published_at": "2020-10-30 14:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/design.jpg",
-      "description": "<p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev.</p><p>Nesse episódio, Diego Fernandes se reúne com Thainan Librelon e Tiago Luchtenberg para discutir sobre: Desenvolvedor pode fazer o trabalho do UI/UX, qual impacto? Qual é o momento ideal pra ter pessoas especializadas em UX e UI? E afinal, o que é UI e o que é UX?</p>",
+      "shortDescription": "O Agamenon #152 chega na sua versão freestyle, com as histórias cotidianas de nossos integrantes gui...",
+      "published_at": "2021-08-26",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-152.png",
+      "description": "<p>O Agamenon #152 chega na sua versão freestyle, com as histórias cotidianas de nossos integrantes guiando a condução do programa. Celso Ishigami, Cassio Zirpoli, Filipe Assis e João de Andrade Neto trouxeram histórias do tempo de redação de jornalismo, como uma pauta no barzinho de bairro, o famoso “pega bebo”, editor puxando trio elétrico de carnaval, a compra de um berço que quase gerou discórdia, entre outras resenhas, que foram finalizadas com a expectativa para o filme “Homem-aranha: Sem volta para casa”, que teve seu trailer divulgado nesta semana e abre ainda mais a perspectiva dos multiversos para os filmes da Marvel.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/design.m4a",
-        "type": "audio/x-m4a",
-        "duration": 2715
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-152.mp3",
+        "type": "audio/mpeg",
+        "duration": 4144
       }
     },
     {
       "id": "agamenon-151",
       "title": "AGAMENON #151",
-      "members": "O Agamenon #151 veio trabalhado forte no Google Trends. A crise política no Afeganistão é o principa...",
-      "published_at": "2020-10-23 14:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/lider-desenvolvimento.jpg",
-      "description": "<p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev. Nesse episódio, Diego Fernandes se reúne com Cleiton Souza e João Paulo de Magalhães para discutir sobre liderança, considerando aspectos profissionais, técnicos e até mesmo emocionais, o que envolve ser um líder de desenvolvimento? Afinal, o que é um líder de desenvolvimento?</p>",
+      "shortDescription": "O Agamenon #151 veio trabalhado forte no Google Trends. A crise política no Afeganistão é o principa...",
+      "published_at": "2021-08-19",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-151.png",
+      "description": "<pO Agamenon #151 veio trabalhado forte no Google Trends. A crise política no Afeganistão é o principal tema da conversa, que lembrou da relação política dos EUA com o país asiático e do poderio do grupo extremista Talebã, que reassumiu o comando do país.</p><p>O Brasil também esteve na pauta, partindo da repercussão negativa da pergunta feita ao cantor Martinho da Vila no Roda Viva, até a repercussão negativa das pulseiras do Arquipélago de Fernando de Noronha. As polêmicas de Sérgio Reis e do Ministro da Educação, a prisão de Roberto Jefferson e a morte de Tarcísio Meira. No fim, como sempre, sobrou espaço para algumas indicações.</p><p>Desta vez, o programa contou com Celso Ishigami, Cassio Zirpoli, Fred Figueiroa e João de Andrade Neto. Vítor Aguiar foi o responsável pela edição de áudio do programa. Ouça agora ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/lider-desenvolvimento.m4a",
-        "type": "audio/x-m4a",
-        "duration": 2917
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-151.mp3",
+        "type": "audio/mpeg",
+        "duration": 6116
       }
     },
     {
       "id": "agamenon-150",
       "title": "AGAMENON #150",
-      "members": "O Agamenon chega para falar sobre o momento político do Brasil. Nesta semana, o “desfile” de tanques...",
-      "published_at": "2020-10-16 13:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/comunidade.jpg",
-      "description": "<p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos três profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat onde conversamos sobre diversos assuntos que importam para a sua carreira dev.</p><p>Nesse primeiro episódio da nova temporada, Diego Fernandes se reúne com Isabela Castilho e João Inácio Neto (Biro) para discutir sobre comunidades e o impacto que elas exercem na carreira de devs em busca do próximo nível. Afinal, O que é uma comunidade e o que tem a ver com tecnologia?</p>",
+      "shortDescription": "O Agamenon chega para falar sobre o momento político do Brasil. Nesta semana, o “desfile” de tanques...",
+      "published_at": "2021-08-11",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-150.png",
+      "description": "<p>O Agamenon chega para falar sobre o momento político do Brasil. Nesta semana, o “desfile” de tanques em Brasília e a votação que decidiria sobre o voto impresso nas eleições do país, onde o modelo atual da urna eletrônica passa por constantes ataques governistas. O dia 10 de agosto traz uma simbologia bastante triste no cenário do país, principalmente nas diversas formas de ameaça à nossa democracia.</p><p>No segundo bloco do programa, com o Google Trends, passamos pelo The Masked Singer, novo programa musical da TV Globo, que estreou nesta semana e foi bastante comentado nas redes sociais. Além disso, a viagem por outros assuntos foi parar em programas de TV dos anos 90, volta do público para eventos e a retomada da normalidade no Brasil, mesmo sem cobertura vacinal contra covid-19 plena pandemia. No final, ainda teve espaço para umas indicações, como de costume. O elenco esteve completo com Celso Ishigami, Cassio Zirpoli, Filipe Assis, Fred Figueiroa e João de Andrade Neto. Klisman Gama foi o responsável pela edição de áudio do programa. Ouça agora ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/comunidade.m4a",
-        "type": "audio/x-m4a",
-        "duration": 2677
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-150.mp3",
+        "type": "audio/mpeg",
+        "duration": 5883
       }
     },
     {
       "id": "agamenon-149",
       "title": "AGAMENON #149",
-      "members": "Está no ar mais um Agamenon! E na edição de número #149 o assunto não poderia ser outro: Os Jogos Ol...",
-      "published_at": "2020-05-04 14:49:35",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/typescript.jpg",
-      "description": "<p>Três programadores conversam sobre TypeScript.</p><p>Vamos discutir a usabilidade e as previsões da linguagem no cenário da programação.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso.</p>",
+      "shortDescription": "Está no ar mais um Agamenon! E na edição de número #149 o assunto não poderia ser outro: Os Jogos Ol...",
+      "published_at": "2021-07-29",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-149.png",
+      "description": "<p>Está no ar mais um Agamenon! E na edição de número #149 o assunto não poderia ser outro: Os Jogos Olímpicos de Tóquio. Mas antes de se aprofundar nos esportes olímpicos mais aleatórios e na conquista da medalha de prata por Rebeca Andrade na ginástica, o programa relembrou os grandes – e os nem tão grandes assim – Campeões da Fórmula 1 ao longo dos anos e as novas regras para a pole position adotadas este ano.</p><p>Celso Ishigami, Cassio Zirpoli, Filipe Assis e João de Andrade Neto participaram deste programa, enquanto Danilo Melo cuidou da edição de áudio. Ouça agora ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/typescript.m4a",
-        "type": "audio/x-m4a",
-        "duration": 1772
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-149.mp3",
+        "type": "audio/mpeg",
+        "duration": 5373
       }
     },
     {
       "id": "agamenon-148",
       "title": "AGAMENON #148",
-      "members": "A Olimpíada chegou e, com ela, veio o Agamenon mais esperado dos últimos quatro (ou cinco) anos. Che...",
-      "published_at": "2020-04-09 20:00:00",
-      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/autenticacao.jpg",
-      "description": "<p>Três programadores conversam sobre estratégia de autenticação.</p><p>Vamos discutir quais aspectos você deve considerar na hora de fazer a sua escolha.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso.</p>",
+      "shortDescription": "A Olimpíada chegou e, com ela, veio o Agamenon mais esperado dos últimos quatro (ou cinco) anos. Che...",
+      "published_at": "2021-07-21",
+      "thumbnail": "https://agamenon.s3.amazonaws.com/thumbnails/agamenon-148.png",
+      "description": "<p>A Olimpíada chegou e, com ela, veio o Agamenon mais esperado dos últimos quatro (ou cinco) anos. Chegou a hora do Podcast 45 se queimar com todo mundo que pratica ou já praticou algum esporte olímpico. O debate mais polêmico da temporada. É hora de reclassificarmos os esportes olímpicos. Afinal, nem tudo que está nos Jogos Olímpicos é futebol.</p><p>Celso Ishigami, Cassio Zirpoli, Filipe Assis e Fred Figueiroa participaram deste programa, enquanto Vítor Aguiar cuidou da edição de áudio. Ouça agora ou quando quiser.</p>",
       "file": {
-        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/autenticacao.m4a",
-        "type": "audio/x-m4a",
-        "duration": 1463
+        "url": "https://agamenon.s3.amazonaws.com/episodes/agamenon-148.mp3",
+        "type": "audio/mpeg",
+        "duration": 6039
       }
     }
   ]
