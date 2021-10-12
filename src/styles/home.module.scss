@@ -1,33 +1,38 @@
 .homepage {
   padding: 0 1.5rem;
   overflow-y: scroll;
-  height: calc(100vh - 6.5rem);
+  height: calc(100vh - 5rem);
 
   h2 {
-    margin: 2rem 0;
+    margin: 1rem 0;
   }
 }
 
 .latestEpisodes {
   ul {
-    gap: 1.5rem;
-    display: grid;
+    gap: 1rem;
+    display: flex;
     list-style: none;
-    grid-template-columns: repeat(2, 1fr);
 
     li {
+      width: 100%;
       display: flex;
-      padding: 1.25rem;
+      padding: 1rem;
       position: relative;
       align-items: center;
-      border-radius: 1.5rem;
+      border-radius: 0.5rem;
       background: var(--white);
       border: 1px solid var(--gray-100);
 
       img {
         width: 6rem;
         height: 6rem;
+        transition: 500ms;
         border-radius: 1rem;
+
+        &:hover {
+          transform: scale(1.25)
+        }
       }
 
       .episodeDetails {
@@ -48,12 +53,9 @@
         }
 
         p {
-          max-width: 70%;
           overflow: hidden;
           font-size: 0.9rem;
           margin-top: 0.5rem;
-          white-space: nowrap;
-          text-overflow: ellipsis;
         }
 
         span {
@@ -83,7 +85,7 @@
 
       button {
         right: 2rem;
-        bottom: 2rem;
+        bottom: 0.5rem;
         font-size: 0;
         width: 2.5rem;
         height: 2.5rem;
