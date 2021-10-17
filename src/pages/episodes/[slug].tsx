@@ -1,3 +1,4 @@
+import Head from 'next/head'
 import Link from 'next/link'
 import Image from 'next/image'
 import { ptBR } from 'date-fns/locale'
@@ -5,6 +6,7 @@ import { format, parseISO } from 'date-fns'
 import { GetStaticPaths, GetStaticProps } from 'next'
 
 import { api } from '../../services/api'
+import { usePlayer } from '../../contexts/PlayerContext'
 import { Episode, EpisodeResponse } from '../../utils/interfaces'
 import { convertDurationToTimeString } from '../../utils/functions'
 
@@ -15,16 +17,22 @@ type EpisodeProps = {
 }
 
 export default function EpisodePage({ episode }: EpisodeProps) {
+  const playerCtx = usePlayer()
+
   return (
     <div className={styles.episode}>
+      <Head>
+        <title>{episode.title} | Podcast Agamenon</title>
+      </Head>
+
       <div className={styles.thumbnailContainer}>
         <Link href="/" passHref>
           <button type="button">
             <Image width={16} height={16} src="/arrow-left.svg" alt="Voltar" />
           </button>
         </Link>
-        <Image width={700} height={160} src={episode.thumbnail} alt="Thumbnail" objectFit="cover" />
-        <button type="button">
+        <Image width={700} height={300} src={episode.thumbnail} alt="Thumbnail" objectFit="cover" />
+        <button type="button" onClick={() => playerCtx.play(episode)}>
           <Image width={24} height={24} src="/play.svg" alt="Tocar episódio" />
         </button>
       </div>
@@ -42,10 +50,11 @@ export default function EpisodePage({ episode }: EpisodeProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  return {
-    paths: [],
-    fallback: 'blocking'
-  }
+  const params = { _limit: 2, _sort: 'published_at', _order: 'desc' }
+  const { data } = await api.get<EpisodeResponse[]>('/episodes', { params })
+  const paths = data.map(({ id }) => ({ params: { slug: id } }))
+
+  return { paths, fallback: 'blocking' }
 }
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
